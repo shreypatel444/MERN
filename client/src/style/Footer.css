@@ -1,0 +1,15 @@
+.foot{
+    height: auto;
+    width: auto;
+    background-color: rgb(41, 13, 182);
+    color: white;
+    height: 70px;
+    position:sticky;
+}
+
+.foot-para{
+    background-color: rgb(41, 13, 182);
+    height: 50px;
+    font-size: 1.4rem;
+    line-height: 50px;
+}

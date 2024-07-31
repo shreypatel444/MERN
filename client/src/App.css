@@ -1,0 +1,54 @@
+/* App.css */
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 10px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .car-list {
+    margin-top: 20px;
+  }
+  
+  .car-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .car-list li {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    margin-top: 20px;
+    background-color: #f0f0f0;
+    padding: 10px 0;
+  }
+  

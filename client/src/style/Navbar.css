@@ -1,0 +1,59 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  background-color: rgb(249, 255, 253);
+}
+
+.navbar {
+  /* background-color: #333; */
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position:relative;
+  position: static;
+}
+
+.navbar-brand .logo {
+  color: #fff;
+  font-size: 2.1rem;
+  text-decoration: none;
+  color: black;
+  border-style: none;
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight:700;
+  font-style: normal;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin-right: 20px;
+}
+
+.nav-links li:last-child {
+  margin-right: 0;
+}
+
+.link {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  color: black;
+}
+
+.link:hover {
+  color: #0a15db;
+}
+
+a.active {
+  color: #0a15db;
+  border-bottom: 2px solid #0a15db;
+}

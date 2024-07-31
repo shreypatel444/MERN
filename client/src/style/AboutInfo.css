@@ -1,0 +1,43 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(249, 255, 253);
+  }
+
+.main-info{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.trading-info{
+    width:100%;
+    height: auto;
+    border-bottom: 1px solid black;
+    margin: 10px 0px;
+}
+
+.trading-heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+.trading-para{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2rem;
+    width: 50%;
+    text-align: center;
+}
+
+.trading-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

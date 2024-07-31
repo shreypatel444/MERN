@@ -1,0 +1,16 @@
+.main-text{
+    height: auto;
+    width: 45%;
+    background-color: white;
+    /* border: 1px solid black;
+    border-radius: 8px; */
+}
+
+.heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.content-para{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.3rem;
+}

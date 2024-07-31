@@ -1,0 +1,23 @@
+.main_service {
+  width: 100%;
+  height: auto;
+}
+
+.services {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.search_main {
+  width: 100%;
+}
+.search_area{
+    width: 50%;
+    margin: auto;
+}
+.heading {
+  font-size: 2rem;
+}
